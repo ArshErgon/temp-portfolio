@@ -1,5 +1,5 @@
 # You should read this first
-### You can freely use this portfolio, can make changes and all that, but you can't remove my name from the footer. That's my copyright, because I want to grow my network more and I hope you respect that.
+### You can freely use this portfolio, can make changes and all that, but you have to give me credit. because I want to grow my network more and I hope you respect that.
 <br>
 
 ## Tools which made it possible
